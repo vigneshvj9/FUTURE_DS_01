@@ -60,6 +60,11 @@ Customer engagement behavior strongly influences customer retention outcomes. Bu
 ## Project Files
 
 
+- [Customer Churn Analysis Dashboard.pbix](Customer%20Churn%20Analysis%20Dashboard.pbix)
+- [Customer_Churn_Analysis.xlsx](Customer_Churn_Analysis.xlsx)
+- [README.md](README.md)
+
+
 
 
 

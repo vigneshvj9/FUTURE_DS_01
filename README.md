@@ -25,7 +25,6 @@ The dashboard provides business insights through KPI tracking, trend analysis, p
 - Microsoft Excel
 - Pivot Tables
 - Data Visualization
-- Business Intelligence Techniques
 
 ---
 

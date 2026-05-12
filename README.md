@@ -1,7 +1,7 @@
 # FUTURE_DS_01
 FUTURE_DS_01 – A data science learning repository containing datasets, exploratory analysis, visualizations, and project tasks.
 # FUTURE_DS_01
-# Superstore Sales & Profit Analysis Dashboard
+# Business Sales Analysis Dashboard
 
 ## Project Overview
 This project is an interactive Power BI dashboard developed using the Superstore dataset to analyze sales performance, profitability, customer segments, products, and regional trends.

@@ -111,7 +111,7 @@ The analysis demonstrates strong sales growth, healthy profitability, and high-p
 
 ## Project Files
 
-- [BUSINESS SALES ANALYSIS.pbix](BUSINESS%20SALES%20ANALYSIS%20.pbix)
+- [BUSINESS SALES ANALYSIS.pbix](Business%20Sales%20Analysis%20.pbix)
 - [RAW DATA.xlsx](RAW%20DATA.xlsx)
 - [README.md](README.md)
 
